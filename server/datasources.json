@@ -2,5 +2,14 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "postgres": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "recipes",
+    "password": "B2r#e4",
+    "name": "postgres",
+    "user": "admin",
+    "connector": "postgresql"
   }
 }
